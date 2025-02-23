@@ -14,7 +14,7 @@
 
 # 源码合作
 
-提供全部源码，正规授权，100%开源，支持二开，无任何限制，不存在什么顶级域名
+提供全部源码，正规授权，支持二开，无任何限制，不存在什么顶级域名
 
 # 用户端
   ![01](https://github.com/user-attachments/assets/18353a76-c537-4eaf-a3e4-46bcc1c88f8e)
@@ -57,7 +57,11 @@
 ![28](https://github.com/user-attachments/assets/7f096f06-a3aa-4dba-99dd-5b7bbaa430db)
 ![29](https://github.com/user-attachments/assets/02168774-f455-4d39-b7c4-b79e38b89a6d)
 
-# 联系
 
-![xiaomage](https://github.com/user-attachments/assets/a05c244f-d06a-4aa7-be51-f664b36dfa6f)
+# 产品体验
+
+如果你对本项目感兴趣，项目合作、体验请联系微信
+
+![wx](https://github.com/user-attachments/assets/e7ee53bf-ee50-4dfd-bad1-6fcd74b9cef0)
+
 
